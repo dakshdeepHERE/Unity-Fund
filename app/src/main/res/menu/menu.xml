@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_search_ngo"
+        android:title="Search NGO" />
+    <item
+        android:id="@+id/menu_donate"
+        android:title="Donate" />
+    <item
+        android:id="@+id/menu_ngo_type"
+        android:title="NGO Type" />
+</menu>
